@@ -20,8 +20,8 @@ It is consumed by `ui-watch-this`, a front-end React app.
 
 ### Instructions
 1. `bundle install`
-2. `be rake db:mongoid:create_indexes`
 3. `be rake db:create`
+2. `be rake db:mongoid:create_indexes`
 4. `be rake db:seed`
 5. `rails s`
 
